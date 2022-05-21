@@ -44,13 +44,11 @@
                 <div class="card">
                 <img
                     src="<?php echo get_template_directory_uri()?>/assets/images/pk2.jpg"
-                    class="card-img-top"
-                    alt="Sunset Over the Sea"
-                />
+                /><br>
                 <div class="card-body">
                     <h5 class="card-title">Ivysaur &nbsp;&nbsp;<span class="badge" style="background-color:#000080";>#002</span></h5>
                     <p class="card-text">
-                    Ivysaur é um pokémon de tipo grama/veneno introduzido na Geração I. Ele evolui de Bulbasaur a partir do nível 16 e evolui para Venusaur a partir do nível 32. Possui uma habilidade oculta de clorofila.
+                    Ivysaur é um pokémon de tipo grama/veneno introduzido na Geração I. Ele evolui de Bulbasaur a partir do nível 16 e evolui para Venusaur a partir do nível 32. Possui uma habilidade oculta de clorofila.<br><br><br>
                     </p>
                 </div>
                 </div>
@@ -60,13 +58,11 @@
                 <div class="card">
                 <img
                     src="<?php echo get_template_directory_uri()?>/assets/images/pk3.jpg"
-                    class="card-img-top"
-                    alt="Sunset over the Sea"
                 />
                 <div class="card-body">
                     <h5 class="card-title">Dartrix &nbsp;&nbsp;<span class="badge" style="background-color:#000080";>#723</span></h5>
                     <p class="card-text">
-                    Dartrix é um pokémon de tipo grama/voador introduzido na Geração VII. Ele evolui de Rowlet a partir do nível 17 e evolui para Decidueye a partir do nível 34. Possui uma habilidade oculta de longo alcance.
+                    Dartrix é um pokémon de tipo grama/voador introduzido na Geração VII. Ele evolui de Rowlet a partir do nível 17 e evolui para Decidueye a partir do nível 34. Possui uma habilidade oculta de longo alcance.<br><br>
                     </p>
                 </div>
                 </div>
@@ -83,8 +79,6 @@
                 <div class="card">
                 <img
                     src="<?php echo get_template_directory_uri()?>/assets/images/pk4.jpg"
-                    class="card-img-top"
-                    alt="Fissure in Sandstone"
                 />
                 <div class="card-body">
                     <h5 class="card-title">Sylveon &nbsp;&nbsp;<span class="badge" style="background-color:#000080";>#700</span></h5>
@@ -99,13 +93,11 @@
                 <div class="card">
                 <img
                     src="<?php echo get_template_directory_uri()?>/assets/images/pk7.jpg"
-                    class="card-img-top"
-                    alt="Storm Clouds"
                 />
                 <div class="card-body">
                     <h5 class="card-title">Mewtwo &nbsp;&nbsp;<span class="badge" style="background-color:#000080";>#150</span></h5>
                     <p class="card-text">
-                   Mewtwo é um pokémon Lendário do tipo Psíquico introduzido na Geração I. Embora não seja conhecido por evoluir para ou de qualquer outro Pokémon, Mewtwo pode Mega Evoluir em duas formas diferentes: Mega Mewtwo X ou Y.
+                   Mewtwo é um pokémon Lendário do tipo Psíquico introduzido na Geração I. Embora não seja conhecido por evoluir para ou de qualquer outro Pokémon, Mewtwo pode Mega Evoluir em duas formas diferentes: Mega Mewtwo X ou Y.<br><br>
                     </p>
                 </div>
                 </div>
@@ -115,13 +107,11 @@
                 <div class="card">
                 <img
                     src="<?php echo get_template_directory_uri()?>/assets/images/pk6.jpg"
-                    class="card-img-top"
-                    alt="Hot Air Balloons"
                 />
                 <div class="card-body">
                     <h5 class="card-title">Wartortle &nbsp;&nbsp;<span class="badge" style="background-color:#000080";>#008</span></h5>
                     <p class="card-text">
-                    Wartortle é um pokémon do tipo Água introduzido na Geração I. Ele evolui de Squirtle a partir do nível 16 e evolui para Blastoise a partir do nível 36. Possui uma habilidade oculta de Prato de Chuva.
+                    Wartortle é um pokémon do tipo Água introduzido na Geração I. Ele evolui de Squirtle a partir do nível 16 e evolui para Blastoise a partir do nível 36. Possui uma habilidade oculta de Prato de Chuva.<br><br><br>
                     </p>
                 </div>
                 </div>
