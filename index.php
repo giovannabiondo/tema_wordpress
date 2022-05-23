@@ -40,7 +40,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 d-none d-lg-block">
+            <div class="col-lg-4">
                 <div class="card">
                 <img
                     src="<?php echo get_template_directory_uri()?>/assets/images/pk2.jpg"
@@ -54,7 +54,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 d-none d-lg-block">
+            <div class="col-lg-4">
                 <div class="card">
                 <img
                     src="<?php echo get_template_directory_uri()?>/assets/images/pk3.jpg"
@@ -75,7 +75,7 @@
 
         <div class="container">
             <div class="row">
-            <div class="col-lg-4 col-md-12">
+            <div class="col-lg-4">
                 <div class="card">
                 <img
                     src="<?php echo get_template_directory_uri()?>/assets/images/pk4.jpg"
@@ -89,7 +89,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 d-none d-lg-block">
+            <div class="col-lg-4">
                 <div class="card">
                 <img
                     src="<?php echo get_template_directory_uri()?>/assets/images/pk7.jpg"
@@ -103,7 +103,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 d-none d-lg-block">
+            <div class="col-lg-4">
                 <div class="card">
                 <img
                     src="<?php echo get_template_directory_uri()?>/assets/images/pk6.jpg"
